@@ -1,12 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+
 
  <div>
-   <a href="https://github.com/
-BreadcrumbsMoktheus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=
-BreadcrumbsMoktheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-BreadcrumbsMoktheus&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/moktheus">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moktheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moktheus&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -16,10 +13,4 @@ BreadcrumbsMoktheus&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
